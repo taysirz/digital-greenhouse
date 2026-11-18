@@ -66,3 +66,5 @@ No open-source licence has been selected. Public visibility is not permission to
 - [AUREVA product vision](AUREVA/PRODUCT_VISION.md)
 - [AUREVA feature/evidence map](AUREVA/FEATURE_MAP.md)
 - [Related repositories](docs/RELATED_REPOSITORIES.md)
+
+- [Source upload guide](docs/SOURCE_UPLOAD_GUIDE.md) — how to add the prepared extension/backend tree to this branch.
