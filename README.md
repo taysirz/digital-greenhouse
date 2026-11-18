@@ -2,50 +2,59 @@
 
 **ŦØŁĒṼŪ ✦ — Illuminate the Everyday.**
 
-This repository preserves the TOLEVU parent-brand foundation and the AUREVA product project, including the current extension and backend source snapshot, product philosophy, brand system, engineering notes, test evidence, release instructions and Digital Greenhouse project history.
+This repository is being reorganised around the TOLEVU parent brand and AUREVA, its digital-wellbeing product. The existing Digital Greenhouse history is preserved rather than erased.
 
-## Current snapshot
+## Current project snapshot
 
-- **Product:** AUREVA
-- **Release snapshot:** 0.1.4
 - **Parent brand:** TOLEVU
-- **Current source bundle:** [AUREVA 0.1.4 Developer Preview](releases/AUREVA_0.1.4_Developer_Preview.zip)
-- **Chrome package:** [AUREVA 0.1.4 Chrome Ready](releases/AUREVA_0.1.4_Chrome_Ready.zip)
-- **Status:** Development snapshot. Automated tests passed; manual acceptance in a real Chrome profile remains outstanding.
-
-The developer preview archive contains the editable extension source, Node.js backend source, tests, documentation and configuration examples. It is the complete source snapshot for this release, not a claim that every planned product capability is already implemented.
+- **Product:** AUREVA
+- **Product origin:** Digital Greenhouse
+- **Latest prepared package:** AUREVA 0.1.4
+- **Project status:** Development snapshot; not a production-ready product claim.
 
 ## Start here
 
-1. Read [TOLEVU brand foundation](TOLEVU.md).
-2. Read the [AUREVA product brief](AUREVA/PRODUCT_BRIEF.md).
-3. Review the [product roadmap and implementation status](AUREVA/ROADMAP.md).
-4. Read the [technical architecture](docs/TECHNICAL_ARCHITECTURE.md).
-5. Download the [developer source bundle](releases/AUREVA_0.1.4_Developer_Preview.zip) and follow its `AUREVA_0.1.4_START_HERE.md`.
-6. Check [security and privacy guidance](SECURITY.md) before running or deploying the backend.
-
-## Brand architecture
-
-- **TOLEVU** is the parent brand. Its identity brings together technology, nature, luxury, light and enlightenment.
-- **AUREVA** is TOLEVU's digital-wellbeing companion: the reimagined Digital Greenhouse, centred on a plant that represents the person behind the screen.
-
-These are related identities, not the same visual system. Do not assume a final TOLEVU colour palette has been approved. AUREVA's editable palette and current colour-role mapping are documented separately.
+1. [TOLEVU brand foundation](TOLEVU.md)
+2. [AUREVA product brief](AUREVA/PRODUCT_BRIEF.md)
+3. [AUREVA design system](AUREVA/DESIGN_SYSTEM.md)
+4. [AUREVA roadmap and implementation status](AUREVA/ROADMAP.md)
+5. [Technical architecture](docs/TECHNICAL_ARCHITECTURE.md)
+6. [Project history](docs/PROJECT_HISTORY.md)
+7. [Security and privacy](SECURITY.md)
+8. [Licence status](LICENCE_STATUS.md)
 
 ## Repository map
 
 - `TOLEVU.md` — parent-brand foundation and known decisions.
-- `AUREVA/` — product brief, design system and roadmap.
-- `docs/` — technical architecture, history and brand architecture.
-- `releases/` — versioned source and installable package archives.
-- `archive/` — historical Digital Greenhouse material where retained.
-- Existing legacy files from the original Digital Greenhouse repository are preserved until their archive migration is completed.
+- `AUREVA/` — product brief, design system, roadmap and release notes.
+- `docs/` — architecture, project history and brand architecture.
+- `releases/` — release records and source-package inventory.
+- Existing files from the original Digital Greenhouse repository remain preserved on this branch.
 
-## Honest status
+## Brand architecture
 
-AUREVA inherits substantial design and engineering work from Digital Greenhouse. The original Digital Greenhouse project did not reach its intended dependable product outcome; it should not be represented as a successful finished product. AUREVA 0.1.4 is a new, editable development snapshot and still requires hands-on Chrome acceptance and follow-up work on browsing-point attribution.
+- **TOLEVU** (`ŦØŁĒṼŪ ✦`) is the parent brand. Its intended identity combines technology, nature, luxury, light and enlightenment. The working tagline is **Illuminate the Everyday**.
+- **AUREVA** is TOLEVU's digital-wellbeing companion: the reimagined Digital Greenhouse, centred on a plant that represents the person behind the screen.
 
-## Security and licensing
+Their personalities are distinct. TOLEVU is the elevated parent identity; AUREVA is a colourful, playful, energetic and deeply human product. Do not assume experimental colour-card mockups are approved brand standards.
 
-Never commit API keys, signing secrets, owner credentials, generated access tokens, production environment files, or real user data. See [SECURITY.md](SECURITY.md).
+## Source and release packages
 
-No open-source licence has been selected. Public visibility is not permission to reuse, redistribute, or commercialise this code. See [LICENCE STATUS](LICENCE_STATUS.md).
+The AUREVA 0.1.4 Developer Preview and Chrome-ready ZIP packages have been prepared and tested as local release artifacts. **The binary ZIP archives have not yet been committed to this GitHub branch.** The current branch contains the company/product documentation and release records, while the prepared packages remain available separately for upload.
+
+- Developer bundle: `AUREVA_0.1.4_Developer_Preview.zip` — extension source, backend source, tests and documentation.
+- Chrome package: `AUREVA_0.1.4_Chrome_Ready.zip` — installable extension source.
+
+See [release status](AUREVA/RELEASES.md) for the verification boundary. Do not mistake documentation or an archive's existence for production readiness.
+
+## Honest project status
+
+Digital Greenhouse did not reach its intended dependable product outcome. The user explicitly describes it as a failed project, so it must not be presented as a successful finished product. AUREVA is the reimagined product direction and remains under development.
+
+AUREVA 0.1.4 automated checks passed according to its test report. Manual acceptance in a real Chrome profile remains outstanding. The 0.1.4 patch does not change the points engine; the reported eight-hour/zero-points experience remains an open product issue.
+
+## Security and licence
+
+Never commit API keys, signing secrets, owner credentials, generated access tokens, production environment files or real user data. See [SECURITY.md](SECURITY.md).
+
+No open-source licence has been selected. Public visibility is not permission to reuse, redistribute or commercialise the code and brand assets. See [LICENCE_STATUS.md](LICENCE_STATUS.md).
