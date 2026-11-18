@@ -58,3 +58,11 @@ AUREVA 0.1.4 automated checks passed according to its test report. Manual accept
 Never commit API keys, signing secrets, owner credentials, generated access tokens, production environment files or real user data. See [SECURITY.md](SECURITY.md).
 
 No open-source licence has been selected. Public visibility is not permission to reuse, redistribute or commercialise the code and brand assets. See [LICENCE_STATUS.md](LICENCE_STATUS.md).
+
+## Extended brand and product material
+
+- [TOLEVU website brief](TOLEVU/WEBSITE_BRIEF.md)
+- [TOLEVU LinkedIn company-page brief](TOLEVU/LINKEDIN_PROFILE.md)
+- [AUREVA product vision](AUREVA/PRODUCT_VISION.md)
+- [AUREVA feature/evidence map](AUREVA/FEATURE_MAP.md)
+- [Related repositories](docs/RELATED_REPOSITORIES.md)
