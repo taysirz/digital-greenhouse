@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">AUREVA symbol</title><desc id="desc">A colourful three-leaf sprout wrapped by a gentle orbit, with small star-like accents.</desc>
+  <defs>
+    <linearGradient id="o" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8F91C9"/><stop offset="1" stop-color="#E5A9C7"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#8F91C9"/><stop offset="1" stop-color="#C7B8E8"/></linearGradient>
+    <linearGradient id="b" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#78BFA9"/><stop offset="1" stop-color="#B8E1D2"/></linearGradient>
+    <linearGradient id="c" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#E69CB4"/><stop offset="1" stop-color="#F4C4D1"/></linearGradient>
+  </defs>
+  <ellipse cx="160" cy="160" rx="130" ry="83" transform="rotate(-24 160 160)" fill="none" stroke="url(#o)" stroke-width="6"/>
+  <path d="M160 273C160 228 155 193 160 153" fill="none" stroke="#668F82" stroke-width="13" stroke-linecap="round"/>
+  <path d="M160 191C126 187 101 162 100 129C135 126 161 150 168 179C167 184 164 188 160 191Z" fill="url(#a)" stroke="#8F91C9" stroke-width="3"/>
+  <path d="M161 155C161 119 188 93 224 91C226 127 205 155 172 165C167 163 163 159 161 155Z" fill="url(#b)" stroke="#78BFA9" stroke-width="3"/>
+  <path d="M157 222C126 216 108 194 111 166C142 165 164 186 168 212C166 217 162 220 157 222Z" fill="url(#c)" stroke="#E69CB4" stroke-width="3"/>
+  <path d="M241 120L247 133L260 139L247 145L241 158L235 145L222 139L235 133Z" fill="#F0D59B"/>
+  <g fill="#E7A9C7" stroke="#D58CAB" stroke-width="2"><circle cx="98" cy="82" r="9"/><circle cx="98" cy="66" r="8"/><circle cx="113" cy="76" r="8"/><circle cx="83" cy="76" r="8"/></g>
+</svg>
