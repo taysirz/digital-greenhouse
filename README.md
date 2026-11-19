@@ -68,3 +68,13 @@ No open-source licence has been selected. Public visibility is not permission to
 - [Related repositories](docs/RELATED_REPOSITORIES.md)
 
 - [Source upload guide](docs/SOURCE_UPLOAD_GUIDE.md) — how to add the prepared extension/backend tree to this branch.
+
+## Brand assets — first-round logo concepts
+
+Editable SVG logo drafts for both brands are stored in [brand-assets/logos](brand-assets/logos/README.md):
+- [TOLEVU primary wordmark](brand-assets/logos/tolevu-primary.svg)
+- [TOLEVU standalone symbol](brand-assets/logos/tolevu-symbol.svg)
+- [AUREVA primary wordmark](brand-assets/logos/aureva-primary.svg)
+- [AUREVA standalone symbol](brand-assets/logos/aureva-symbol.svg)
+
+These are first-round concepts, not final trademark-cleared artwork. Review the exact wordmark glyphs, palette, favicon-scale legibility and final brand approval before commercial launch.
