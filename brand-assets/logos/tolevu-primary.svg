@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">TOLEVU primary logo</title>
+  <desc id="desc">A refined T-shaped tree and orbit emblem beside the TOLEVU wordmark and working tagline.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9A7133"/><stop offset=".48" stop-color="#D5B36D"/><stop offset="1" stop-color="#F3DFA9"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#6F8D7D"/><stop offset="1" stop-color="#B7C5A7"/></linearGradient>
+  </defs>
+  <g transform="translate(35 24)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="148" cy="150" rx="128" ry="86" transform="rotate(-28 148 150)" stroke="url(#gold)" stroke-width="5"/>
+    <path d="M69 81H227M148 81V274" stroke="url(#gold)" stroke-width="14"/>
+    <path d="M148 214C124 192 107 168 94 139M148 198C171 178 190 155 203 126" stroke="#9A7133" stroke-width="5"/>
+    <path d="M96 143C69 136 55 112 58 91C83 91 104 108 107 132C105 138 101 141 96 143Z" fill="url(#leaf)" stroke="#6F8D7D" stroke-width="3"/>
+    <path d="M197 130C199 103 220 86 246 85C247 111 232 133 207 139C202 137 199 134 197 130Z" fill="url(#leaf)" stroke="#6F8D7D" stroke-width="3"/>
+    <path d="M147 65C128 48 129 24 148 8C168 24 168 48 150 65Z" fill="url(#gold)" stroke="#B28A48" stroke-width="2"/>
+    <path d="M148 274V292" stroke="url(#gold)" stroke-width="8"/><path d="M135 291H161" stroke="url(#gold)" stroke-width="6"/>
+    <path d="M265 52L271 66L285 72L271 78L265 92L259 78L245 72L259 66Z" fill="url(#gold)" stroke="none"/>
+  </g>
+  <g transform="translate(345 0)">
+    <text x="0" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="6" fill="#18243A">ŦØŁĒṼŪ ✦</text>
+    <path d="M5 220H615" stroke="#D5B36D" stroke-width="2"/>
+    <text x="8" y="276" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" letter-spacing="1.2" fill="#806337">Illuminate the Everyday</text>
+  </g>
+</svg>
